@@ -38,3 +38,4 @@ gem "kramdown-parser-gfm"
 
 # theme
 gem "minimal-mistakes-jekyll"
+gem 'jekyll-include-cache'

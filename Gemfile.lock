@@ -100,6 +100,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.6)
+  jekyll-include-cache
   kramdown-parser-gfm
   minima (~> 2.0)
   minimal-mistakes-jekyll
