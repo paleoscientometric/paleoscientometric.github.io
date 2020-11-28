@@ -18,7 +18,7 @@ feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "<center>Power-knowledge relations in Pal(a)eontology</center>"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "The colonial legacy in fossil collections is evident. During colonial times, museums were use as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing 'parachute science', whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.  "
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "<center>Fossils in conflict zones: the case of Myanmar amber</center>"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -27,7 +27,8 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "<center>Editorial gatekeeping in the pal(a)eo-literature</center>"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "The peer review system relies on the assessment of the work done by other researchers, in which journal editors play a key role. The publication process hinges on the assessment performed by editors, who draw from the conclusions of reviewers to judge manuscripts. Editors are thus pushed into roles of gatekeeping the integrity of science in any field. A lack of diversity, especially among, high-impact journals, can have severe consequences on the scientific system by hampering the evaluation of research findings. "
+    
 ---
 
 {% include feature_row id="intro" type="center" %}
