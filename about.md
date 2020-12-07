@@ -7,21 +7,21 @@ permalink: /about/
 Our team are based in various institutions across Germany, the UK and USA:
 
 
-Nussaibah B. Raja - [@mauritiantales](https://twitter.com/mauritiantales)
+Nussaïbah B. Raja - [@mauritiantales](https://twitter.com/mauritiantales)
 
 Emma Dunne - [@emmadnn](https://twitter.com/emmadnn)
 
 Tasnuva Ming Khan - [@Ming_tfk27](https://twitter.com/Ming_tfk27)
 
-Paulina Natscher
+Paulina Nätscher - [@palaeolina](https://twitter.com/palaeolina)
 
 Pedro Loreno Godoy - [@PedroLGodoy](https://twitter.com/PedroLGodoy)
 
-Francesca Cusumano
+Francesca Cusumano - [@Frances48873683](https://twitter.com/Frances48873683)
 
 Danijela Dimitrijevic - [@dimidanni](https://twitter.com/dimidanni)
 
-Alejandra Gomez
+Alejandra Gomez - [@Mokasaurus](https://twitter.com/Mokasaurus)
 
 Struan Henderson - [@struhenderson](https://twitter.com/struhenderson)
 
