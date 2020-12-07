@@ -4,7 +4,7 @@ title: OUR TEAM
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Our team are based in various institutions across Germany, the UK and USA:
 
 
 Nussaibah B. Raja - [@mauritiantales](https://twitter.com/mauritiantales)
@@ -15,15 +15,17 @@ Tasnuva Ming Khan - [@Ming_tfk27](https://twitter.com/Ming_tfk27)
 
 Paulina Natscher
 
+Pedro Loreno Godoy - [@PedroLGodoy](https://twitter.com/PedroLGodoy)
+
 Francesca Cusumano
 
-Danijela Dimitrijevic
+Danijela Dimitrijevic - [@dimidanni](https://twitter.com/dimidanni)
 
 Alejandra Gomez
 
-Struan Henderson
+Struan Henderson - [@struhenderson](https://twitter.com/struhenderson)
 
-Gregor Mathes
+Gregor Mathes - [@GregorMathes](https://twitter.com/GregorMathes)
 
-Fiona Pye
+Fiona Pye - [@PyeFiona](https://twitter.com/PyeFiona)
 
