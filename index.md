@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Pal(a)eoScientometrics"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -8,60 +8,33 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/bg.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "Our Projects"
+      url: /#current-projects
+excerpt: "/ˌpeɪlɪɒ'sʌɪənˈtɔmɛtrɪk/
+<br>*noun*. Definition goes here"
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Something on colonialism in paleo goes here'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "<center>Power-knowledge relations in Pal(a)eontology</center>"
+    excerpt: "The colonial legacy in fossil collections is evident. During colonial times, museums were use as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing 'parachute science', whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.  "
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "<center>Fossils in conflict zones: the case of Myanmar amber</center>"
+    excerpt: "Discoveries of fossils in amber from Myanmar have attracted considerable attention - not only due to their exquisite preservation, but also because their alleged role in funding internal conflict, resulting in a devastating humanitarian crisis. Research activity on Myanmar amber has increased dramatically in recent, despite calls to cease study until the conflict is resolved. Furthermore, the majority of research on Myanmar amber fossils is undertaken by foreign researchers, indicating an acutely problematic case of the practice of **'parachute-'** or **'exploitative science'**."
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "More coming soon"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "<center>Editorial gatekeeping in the pal(a)eo-literature and knowledge</center>"
+    excerpt: "The peer review system relies on the assessment of the work done by other researchers, in which journal editors play a key role. The publication process hinges on the assessment performed by editors, who draw from the conclusions of reviewers to judge manuscripts. Editors are thus pushed into roles of gatekeeping the integrity of science in any field. A lack of diversity, especially among, high-impact journals, can have severe consequences on the scientific system by hampering the evaluation of research findings. "
+    
 ---
 
 {% include feature_row id="intro" type="center" %}
 
+# Current Projects
+
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
