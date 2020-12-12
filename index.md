@@ -40,8 +40,8 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
-<iframe src="https://github.com/sponsors/nussaibahrs/button" title="Sponsor us on Github" height="35" width="116" style="border: 0;"></iframe>
-# Current Projects
+
+# Current Projects <iframe src="https://github.com/sponsors/nussaibahrs/button" title="Sponsor us on Github" height="35" width="116" style="border: 0;"></iframe>
 
 {% include feature_row %}
 
