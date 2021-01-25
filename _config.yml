@@ -30,6 +30,12 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+# Collections
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

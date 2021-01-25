@@ -6,7 +6,7 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Blog"
     url: /blog
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Previous talks"
+    url: /talks
   # - title: "Sitemap"
   #   url: /sitemap/
