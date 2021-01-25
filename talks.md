@@ -4,6 +4,6 @@ title: "Previous Talks"
 collection: talks
 permalink: /talks/
 author_profile: false
+entries_layout: grid
 ---
-
-Sample document listing for the collection `_talks`.
+Previous talks given on the topic
