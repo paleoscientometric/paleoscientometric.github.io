@@ -1,6 +1,7 @@
 ---
 title: "Chocolate Chip Cookies"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+layout: single
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
