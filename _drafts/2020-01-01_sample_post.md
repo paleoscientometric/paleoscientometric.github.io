@@ -5,6 +5,7 @@ layout: single
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
+draft: true
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
