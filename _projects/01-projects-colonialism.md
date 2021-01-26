@@ -1,6 +1,6 @@
 ---
 title: "Power-knowledge relations in Pal(a)eontology"
-excerpt: "The colonial legacy in fossil collections is evident. During colonial times, museums were use as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing 'parachute science', whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.  "
+excerpt: "The colonial legacy in fossil collections is evident. During colonial times, museums were used as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing 'parachute science', whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.  "
 layout: single
 header:
   image: /assets/images/bg.jpg

@@ -4,7 +4,7 @@ main:
     url: /team
 # - title: "About"
 #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Projects"
+  - title: "Current Projects"
     url: /#current-projects
   - title: "Previous talks"
     url: /talks

@@ -13,15 +13,15 @@ header:
 excerpt: "/ˌpeɪlɪɒ'sʌɪənˈtɔmɛtrɪk/
 <br>*noun*. The study of the quantitative features and characteristics of palaeontology and palaeontological research"
 intro:
-  - excerpt: 'The colonial legacy in palaeontology cannot be denied. We see in in natural history collections. We also see it in the way many researchers conduct their work.
+  - excerpt: 'The colonial legacy in palaeontology cannot be denied. We see it in natural history collections. We also see it in the way many researchers conduct their work.
 
 <p>Colonialism itself has many faces and usually the coloniser believes that the colonised need what they have to offer because the colonised have nothing to offer. The first order of business is to devalue what the colonised have and ensure whatever they have on the table is far more "superior". This is often seen in the way palaeontolgical research is disseminated, whose research gets to be published over the other and who are more accepted as experts in their field.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "<center>Power-knowledge relations in Pal(a)eontology</center>"
-    excerpt: "The colonial legacy in fossil collections is evident. During colonial times, museums were use as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing 'parachute science', whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.  "
-    url: "/projects/01-projects-colonialism/"
+    excerpt: "The colonial legacy in fossil collections is evident. During colonial times, museums were used as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing 'parachute science', whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.  "
+    url: "projects/01-projects-colonialism"
     btn_label: "Click for more info"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
