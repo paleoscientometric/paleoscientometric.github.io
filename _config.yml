@@ -22,6 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mauritiantales
 github_username:  paleoscientometrics
 logo: "/assets/images/logo.png"
+breadcrumbs: true  # disabled by default
 
 # Build settings
 markdown: kramdown
@@ -37,6 +38,10 @@ include:
 # Collections
 collections:
   talks:
+    output: true
+    permalink: /:collection/:path/
+
+  projects:
     output: true
     permalink: /:collection/:path/
 
