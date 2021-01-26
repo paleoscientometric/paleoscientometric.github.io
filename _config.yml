@@ -30,6 +30,10 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+# Reading Files
+include:
+  - _pages
+
 # Collections
 collections:
   talks:
