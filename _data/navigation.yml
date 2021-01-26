@@ -4,9 +4,16 @@ main:
     url: /team
 # - title: "About"
 #   url: https://mmistakes.github.io/minimal-mistakes/about/
-#  - title: "Blog"
-#    url: /blog
+  - title: "Projects"
+    url: /#current-projects
   - title: "Previous talks"
     url: /talks
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# sidebar-projects:
+#  - title: "Colonialism in Paleontology"
+#    url: /projects/01-projects-colonialism/
+#    children:
+#      - title: "Colonialism in Paleontology"
+#        url: /
