@@ -10,7 +10,7 @@ header:
 classes: wide
 ---
 
-Our team is small but dedicated. If you're interested in collaborating or joining, please speak to [Nussaïbah](https://twitter.com/mauritiantales).
+Our team is small but dedicated. If you're interested in collaborating or joining, please speak to [Nussaïbah](mailto:nussaibah.raja.schoob@fau.de).
 
 <h1> Project Leaders </h1>
 
