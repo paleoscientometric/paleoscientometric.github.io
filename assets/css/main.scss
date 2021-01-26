@@ -3,6 +3,32 @@
 ---
 
 @charset "utf-8";
+//$link-color: black;
+// $primary-color: black;
+$serif      : 'Merriweather',Georgia, Times, serif;
+$sans-serif : 'Open Sans', sans-serif;
+$monospace  : Monaco, Consolas, "Lucida Console", monospace;
+$global-font-family : $sans-serif;
+$header-font-family : $sans-serif;
+$doc-font-size: 11;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.teamwrapper {
+  display: grid;
+  margin-left: 20px;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+  align-items: start;
+}
+
+@media (min-width: 600px) {
+  .teamwrapper {
+  grid-template-columns: repeat(3, 1fr);
+}
+}
+
+.site-logo img {
+  max-height: 1.1rem;
+}

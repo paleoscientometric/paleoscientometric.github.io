@@ -1,0 +1,15 @@
+Nussaibah:
+  name    : "Nussaïbah Raja-Schoob "
+  avatar      : "/assets/images/authors/nussaibah.jpg"
+  links:
+      - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
+        url: "https://twitter.com/mauritiantales"
+
+Emma:
+  name    : "Dr. Emma Dunne"
+  avatar      : "/assets/images/authors/emma.jpg"
+  links:
+      - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
+        url: "https://twitter.com/emmadnn"

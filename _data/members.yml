@@ -1,0 +1,45 @@
+Francesca:
+  name: "Fracesca Cusumano"
+
+Devapriya:
+  name: "Devapriya Chattopadhyay"
+
+Danijela:
+  name: "Danijela Dimitrijević"
+
+Diana:
+  name: "Diana Elizabeth Fernández"
+
+Pedro:
+  name: "Pedro Loreno Godoy"
+
+Aline:
+  name: "Aline Ghilardi"
+
+Alejandra:
+  name: "Alejandra Gomez"
+
+Struan:
+  name: "Struan Henderson"
+
+Gregor:
+  name: "Gregor Mathes"
+
+Ming:
+  name    : "Tasnuva Ming Khan"
+  avatar      : "/assets/images/authors/ming.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Ming_tfk27"
+
+Paulina:
+  name    : "Paulina Nätscher"
+  avatar      : "/assets/images/authors/paulina.jpg"
+  links:
+      - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
+        url: "https://twitter.com/palaeolina"
+
+Fiona Pye:
+  name    : "Fiona Pye"
