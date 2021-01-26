@@ -16,7 +16,7 @@ Our team is small but dedicated. If you're interested in collaborating or joinin
 
 <div class="teamwrapper">
     {% for author in site.data.authors %}
-    <div>
+    <div><center>
         {% if author[1].avatar %}
         <div class="author__avatar">
             <img src="{{ author[1].avatar }}" alt="{{ author[1].name }}" itemprop="image">
@@ -30,6 +30,7 @@ Our team is small but dedicated. If you're interested in collaborating or joinin
         {% if author[1].bio %}
         <i>{{ author[1].bio | markdownify }}</i>
         {% endif %}
+        </center>
     </div>    
     {% endfor %}
 </div>
@@ -38,7 +39,7 @@ Our team is small but dedicated. If you're interested in collaborating or joinin
 
 <div class="teamwrapper">
     {% for author in site.data.members %}
-    <div>
+    <div><center>
         {% if author[1].avatar %}
         <div class="author__avatar">
             <img src="{{ author[1].avatar }}" alt="{{ author[1].name }}" itemprop="image">
@@ -52,6 +53,7 @@ Our team is small but dedicated. If you're interested in collaborating or joinin
         {% if author[1].bio %}
         <i>{{ author[1].bio | markdownify }}</i>
         {% endif %}
+        </center>
     </div>    
     {% endfor %}
 </div>
