@@ -11,8 +11,4 @@ header:
   overlay_image: assets/images/bg.jpg
 author_profile: false
 classes: wide
-sidebar:
-  title: "List of projects"
-  nav: sidebar-projects
-
 ---
