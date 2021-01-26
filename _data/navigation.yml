@@ -2,8 +2,8 @@
 main:
   - title: "Team"
     url: /team
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+# - title: "About"
+#   url: https://mmistakes.github.io/minimal-mistakes/about/
 #  - title: "Blog"
 #    url: /blog
   - title: "Previous talks"

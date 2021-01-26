@@ -33,7 +33,7 @@ Our team is small but dedicated. If you're interested in collaborating or joinin
     </div>    
     {% endfor %}
 </div>
-
+<br>
 <h1> Team </h1>
 
 <div class="teamwrapper">
