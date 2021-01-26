@@ -1,5 +1,6 @@
 Francesca:
   name: "Fracesca Cusumano"
+  avatar      : "/assets/images/authors/francesca.jpg"
 
 Devapriya:
   name: "Devapriya Chattopadhyay"
@@ -13,6 +14,7 @@ Diana:
 
 Pedro:
   name: "Pedro Loreno Godoy"
+  avatar      : "/assets/images/authors/pedro.jpg"
 
 Aline:
   name: "Aline Ghilardi"
