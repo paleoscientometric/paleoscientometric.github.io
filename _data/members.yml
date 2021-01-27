@@ -25,13 +25,6 @@ Alejandra:
 Struan:
   name: "Struan Henderson"
 
-Gregor:
-  name: "Gregor Mathes"
-
-Laura:
-  name: "Laura Mulvey"
-  avatar      : "/assets/images/authors/laura.jpg"
-
 Ming:
   name    : "Tasnuva Ming Khan"
   avatar      : "/assets/images/authors/ming.jpg"
@@ -39,6 +32,13 @@ Ming:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Ming_tfk27"
+
+Gregor:
+  name: "Gregor Mathes"
+
+Laura:
+  name: "Laura Mulvey"
+  avatar      : "/assets/images/authors/laura.jpg"
 
 Paulina:
   name    : "Paulina Nätscher"
@@ -50,3 +50,4 @@ Paulina:
 
 Fiona Pye:
   name    : "Fiona Pye"
+  avatar      : "/assets/images/authors/fiona.jpg"
