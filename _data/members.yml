@@ -1,5 +1,5 @@
 Francesca:
-  name: "Fracesca Cusumano"
+  name: "Francesca Cusumano"
   avatar      : "/assets/images/authors/francesca.jpg"
 
 Devapriya:
@@ -22,6 +22,7 @@ Aline:
 
 Alejandra:
   name: "Alejandra Gomez"
+  avatar      : "/assets/images/authors/alejandra.jpg"
 
 Struan:
   name: "Struan Henderson"
