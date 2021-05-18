@@ -8,6 +8,8 @@ main:
     url: /#current-projects
   - title: "Previous talks"
     url: /talks
+  - title: "Resources"
+    url: /resources
   # - title: "Sitemap"
   #   url: /sitemap/
 
