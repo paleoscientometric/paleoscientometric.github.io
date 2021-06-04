@@ -21,22 +21,12 @@ feature_row:
     alt: "placeholder image 1"
     title: "<center>Power-knowledge relations in Pal(a)eontology</center>"
     excerpt: "The colonial legacy in fossil collections is evident. During colonial times, museums were used as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing 'parachute science', whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.  "
-    url: "projects/01-projects-colonialism"
-    btn_label: "Click for more info"
-    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "<center>Fossils in conflict zones: the case of Myanmar amber</center>"
     excerpt: "Discoveries of fossils in amber from Myanmar have attracted considerable attention - not only due to their exquisite preservation, but also because their alleged role in funding internal conflict, resulting in a devastating humanitarian crisis. Research activity on Myanmar amber has increased dramatically in recent, despite calls to cease study until the conflict is resolved. Furthermore, the majority of research on Myanmar amber fossils is undertaken by foreign researchers, indicating an acutely problematic case of the practice of **'parachute-'** or **'exploitative science'**."
-    url: "#test-link"
-    btn_label: "More coming soon"
-    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "<center>Editorial gatekeeping in the pal(a)eo-literature and knowledge</center>"
     excerpt: "The peer review system relies on the assessment of the work done by other researchers, in which journal editors play a key role. The publication process hinges on the assessment performed by editors, who draw from the conclusions of reviewers to judge manuscripts. Editors are thus pushed into roles of gatekeeping the integrity of science in any field. A lack of diversity, especially among, high-impact journals, can have severe consequences on the scientific system by hampering the evaluation of research findings. "
-    url: "#test-link"
-    btn_label: "More coming soon"
-    btn_class: "btn--primary"
-
 ---
 
 {% include feature_row id="intro" type="center" %}
