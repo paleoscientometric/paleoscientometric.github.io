@@ -27,6 +27,10 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "<center>Editorial gatekeeping in the pal(a)eo-literature and knowledge</center>"
     excerpt: "The peer review system relies on the assessment of the work done by other researchers, in which journal editors play a key role. The publication process hinges on the assessment performed by editors, who draw from the conclusions of reviewers to judge manuscripts. Editors are thus pushed into roles of gatekeeping the integrity of science in any field. A lack of diversity, especially among, high-impact journals, can have severe consequences on the scientific system by hampering the evaluation of research findings. "
+  - image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    title: "<center>Scientific names and who they honour</center>"
+    excerpt: "The Linnean system enjoys universal acceptance within the scientific community. A gift that came along with the Linnean system was eponymous naming, i.e. the naming of a taxon after a person, place or even any other existing entity. The choice to name a species after someone is highly embedded in the power imbalance that we see in the discipline of paleontology, and as a result, who get to be recognised and who doesn't."
+
 ---
 
 {% include feature_row id="intro" type="center" %}
