@@ -32,9 +32,11 @@ Cisneros, J. C., Ghilardi, A. M., Raja, N. B., & Stewens, P. P. (2021). The mora
 <br><a href="https://doi.org/10.31223/X5V32Z" target="blank"><i class="ai ai-doi"></i></a> <a href="https://eartharxiv.org/repository/object/2414/download/4965/" target="blank">  <i class="fa fa-file-pdf"></i></a>
 <br><br>
 <i class="ai ai-open-access" style="font-size:20px;color:orange"></i> Raja, N. B.*, Dunne, E.*, Matiwane, A., Khan, T. M., Nätscher, P., Ghilardi, A., & Chattopadhyay, D. (2021). Colonial history and global economics distort our understanding of deep-time biodiversity. <em>EarthArxiv</em>. Published in <a href="#nat-colonial"><em>Nature Ecology & Evolution</em></a>.
-<br><a href="https://doi.org/10.31223/X5802N" target="blank"><i class="ai ai-doi"></i></a> <a href="https://eartharxiv.org/repository/object/2472/download/5064/" target="blank">  <i class="fa fa-file-pdf"></i></a>
+<br><a href="https://doi.org/10.31223/X5802N" target="blank"><i class="ai ai-doi"></i></a> <a href="https://eartharxiv.org/repository/object/2472/download/5064/" target="blank"><i class="fa fa-file-pdf"></i></a>
 
-
+<br><br>
+<i class="ai ai-open-access" style="font-size:20px;color:orange"></i> Raja, N. B., & Dunne, E. (2021). Minority Language Speakers in Palaeontology. <em>OSF Preprints</em>.
+<br><a href="https://doi.org/10.31219/osf.io/nzjre" target="blank"><i class="ai ai-doi"></i></a> <a href="https://osf.io/nzjre/download" target="blank"><i class="fa fa-file-pdf"></i></a>
 
 <br><br>
 *contributed equally to manuscript
