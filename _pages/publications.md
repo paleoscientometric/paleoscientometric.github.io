@@ -35,7 +35,7 @@ Cisneros, J. C., Ghilardi, A. M., Raja, N. B., & Stewens, P. P. (2021). The mora
 <br><a href="https://doi.org/10.31223/X5802N" target="blank"><i class="ai ai-doi"></i></a> <a href="https://eartharxiv.org/repository/object/2472/download/5064/" target="blank"><i class="fa fa-file-pdf"></i></a>
 
 <br><br>
-<i class="ai ai-open-access" style="font-size:20px;color:orange"></i> Raja, N. B., & Dunne, E. (2021). Minority Language Speakers in Palaeontology. <em>OSF Preprints</em>.
+<i class="ai ai-open-access" style="font-size:20px;color:orange"></i> Raja, N. B., & Dunne, E. (2021). Minority Language Speakers in Palaeontology. <em>OSF Preprints</em>. Originally published in the <a href="https://www.palass.org/sites/default/files/media/publications/newsletters/number_104/number_104.pdf#page=71" target="blank"><em>Palaeontological Association Newsletter</em>, No. 104</a>.
 <br><a href="https://doi.org/10.31219/osf.io/nzjre" target="blank"><i class="ai ai-doi"></i></a> <a href="https://osf.io/nzjre/download" target="blank"><i class="fa fa-file-pdf"></i></a>
 
 <br><br>
