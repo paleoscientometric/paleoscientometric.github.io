@@ -60,3 +60,5 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+encoding: utf-8

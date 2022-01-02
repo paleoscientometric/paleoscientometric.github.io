@@ -39,3 +39,6 @@ gem "kramdown-parser-gfm"
 # theme
 gem "minimal-mistakes-jekyll"
 gem 'jekyll-include-cache'
+
+# # encoding
+gem "jekyll-utf8"
