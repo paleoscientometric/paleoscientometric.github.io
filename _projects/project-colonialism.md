@@ -1,18 +1,17 @@
 ---
+title: "Scientific colonialism in Pal(a)eontology"
+excerpt: "The colonial legacy in fossil collections is evident. During colonial times, museums were used as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing 'parachute science', whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.  "
 layout: single
-author_profile: false
-permalink: /publications/
-title: "Publications"
 header:
-  #overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
-  #caption: "Photo: [**Pexels**](https://www.pexels.com/photo/abstract-art-blur-bright-373543/)"
-  overlay_image: assets/images/bg.jpg
-author_profile: false
+  image: /assets/images/bg.jpg
 toc: true
 toc_sticky: true
 ---
+{% include figure image_path="/assets/ga/ga_colonialism.png" alt="Graphical abstract summarising paper" caption="Graphical abstract by Emma Dunne." %}
 
-# Peer-reviewed articles
+The colonial legacy in fossil collections is evident. During colonial times, museums were used as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing ‘parachute science’, whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.
+
+# Related publications
 
 <div class="small">
 
@@ -27,19 +26,14 @@ Cisneros, J. C., Ghilardi, A. M., Raja, N. B., & Stewens, P. P. (2021). The mora
 <br><br>
 </div>
 
-# Preprints
-
+# Related talks
 <div class="small">
-<i class="ai ai-open-access" style="font-size:20px;color:orange"></i> Raja, N. B., & Dunne, E. (2021). Publication pressure threatens the integrity of palaeontological research. <em>EarthArxiv</em>.
-<br><a href="https://doi.org/10.31223/X5V32Z" target="_blank"><i class="ai ai-doi"></i></a> <a href="https://eartharxiv.org/repository/object/2414/download/4965/" target="_blank">  <i class="fa fa-file-pdf"></i></a>
-<br><br>
-<i class="ai ai-open-access" style="font-size:20px;color:orange"></i> Raja, N. B.*, Dunne, E.*, Matiwane, A., Khan, T. M., Nätscher, P., Ghilardi, A., & Chattopadhyay, D. (2021). Colonial history and global economics distort our understanding of deep-time biodiversity. <em>EarthArxiv</em>. Published in <a href="#nat-colonial"><em>Nature Ecology & Evolution</em></a>.
-<br><a href="https://doi.org/10.31223/X5802N" target="_blank"><i class="ai ai-doi"></i></a> <a href="https://eartharxiv.org/repository/object/2472/download/5064/" target="_blank"><i class="fa fa-file-pdf"></i></a>
+<ul>
+<li><a href="/talks/2020-10-29-GSA/">The Overlooked Realities of Sampling Bias in the Fossil Record</a></li>
 
-<br><br>
-<i class="ai ai-open-access" style="font-size:20px;color:orange"></i> Raja, N. B., & Dunne, E. (2021). Minority Language Speakers in Palaeontology. <em>OSF Preprints</em>. Originally published in the <a href="https://www.palass.org/sites/default/files/media/publications/newsletters/number_104/number_104.pdf#page=71" target="_blank"><em>Palaeontological Association Newsletter</em>, No. 104</a>.
-<br><a href="https://doi.org/10.31219/osf.io/nzjre" target="_blank"><i class="ai ai-doi"></i></a> <a href="https://osf.io/nzjre/download" target="_blank"><i class="fa fa-file-pdf"></i></a>
+<li><a href="/talks/2020-12-08-PaleoPERCS/">The Dirty Truth: Scientific Colonialism in Palaeontology</a></li>
 
-<br><br>
-*contributed equally to manuscript
+<li><a href="/talks/2021-03-04-RoyalTyrrell/">Illicit fossils: the ethical dilemma in protecting the world’s natural history</a></li>
+
+</ul>
 </div>
