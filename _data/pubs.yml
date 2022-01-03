@@ -1,0 +1,53 @@
+peer:
+  - anchor: nat-colonial
+    collection: colonialism
+    authors: "Raja, N. B*., Dunne, E. M.*, Matiwane, A., Khan, T. M., Nätscher, P. S., Ghilardi, A. M., & Chattopadhyay, D."
+    year: 2021
+    title: "Colonial history and global economics distort our understanding of deep-time biodiversity"
+    journal: "Nature Ecology & Evolution"
+    page: "1-10"
+    doi: 10.1038/s41559-021-01608-8
+    pdf: https://rdcu.be/cEdcq
+    researchgate: "https://www.researchgate.net/publication/357441656_Colonial_history_and_global_economics_distort_our_understanding_of_deep-time_biodiversity?_tatpl%5Bac%5D%5B0%5D%5Bactor%5D=AC%3A10509099&_tatpl%5Bac%5D%5B0%5D%5Bid%5D=1454106405388292&_tatpl%5Bac%5D%5B0%5D%5Bobject%5D=PB%3A357441656&_tatpl%5Bac%5D%5B0%5D%5Bts%5D=1641127183&_tatpl%5Bac%5D%5B0%5D%5Bverb%5D=recommend&_tatpl%5Bs%5D=c9f83840fe4a69ed97046327cc591185c0e1e2e0"
+    github: paleoscientometrics/paleo-imperialism
+    osf: 6wc7a
+    links:
+      - description: Multi-lingual Plain Language Summaries
+        url: https://osf.io/bptqf/download
+      - description: Data Sources
+        url: https://osf.io/f3u9k/download
+  - collection: colonialism
+    authors: "Cisneros, J. C., Ghilardi, A. M., Raja, N. B., & Stewens, P. P."
+    year: 2021
+    title: "The moral and legal imperative to return illegally exported fossils."
+    journal: "Nature Ecology & Evolution"
+    page: "1-2"
+    doi: 10.1038/s41559-021-01588-9
+    pdf: https://rdcu.be/cEdyW
+    researchgate: "https://www.researchgate.net/publication/356221849_The_moral_and_legal_imperative_to_return_illegally_exported_fossils"
+
+preprint:
+  -   authors: "Raja, N. B., & Dunne, E."
+      year: 2021
+      title: "Publication pressure threatens the integrity of palaeontological research"
+      server: EarthArxiv
+      doi: 10.31223/X5V32ZN
+      pdf: https://eartharxiv.org/repository/object/2414/download/4965/
+
+  -   authors: "Raja, N. B*., Dunne, E. M.*, Matiwane, A., Khan, T. M., Nätscher, P. S., Ghilardi, A. M., & Chattopadhyay, D."
+      year: 2021
+      title: "Colonial history and global economics distort our understanding of deep-time biodiversity"
+      server: EarthArxiv
+      doi: 10.31223/X5802N
+      pdf: https://eartharxiv.org/repository/object/2472/download/5064/
+      journal: Nature Ecology & Evolution
+      anchor: nat-colonial
+
+  -   authors: "Raja, N. B., & Dunne, E."
+      year: 2021
+      title: "Minority Language Speakers in Palaeontology"
+      server: OSF Preprints
+      doi: 10.31219/osf.io/nzjre
+      pdf: https://osf.io/nzjre/download
+      journal: "Palaeontological Association Newsletter, No. 104."
+      anchor: "https://www.palass.org/sites/default/files/media/publications/newsletters/number_104/number_104.pdf#page=71"
