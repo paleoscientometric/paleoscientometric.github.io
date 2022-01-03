@@ -1,15 +1,15 @@
 # main links
 main:
-  - title: "Team"
-    url: /team
 # - title: "About"
 #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Current Projects"
     url: /#current-projects
-  - title: "Previous talks"
-    url: /talks
   - title: "Publications"
     url: /publications
+  - title: "Previous talks"
+    url: /talks
+  - title: "Team"
+    url: /team
   # - title: "Sitemap"
   #   url: /sitemap/
 
