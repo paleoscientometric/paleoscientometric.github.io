@@ -1,0 +1,31 @@
+main:
+  - title    : "Decolonising the Hunt for Dinosaurs"
+    excerpt      : "Younger paleontologists are working to overcome some historical legacies of their discipline and change how people learn about natural history."
+    outlet: New York Times
+    url: "https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html"
+
+sub:
+  - title: "Países mais ricos monopolizam estudos de fósseis, mostra levantamento"
+    date: "January 02, 2022"
+    outlet: "Folha de S. Paulo"
+    url: "https://www1.folha.uol.com.br/ciencia/2022/01/paises-mais-ricos-monopolizam-estudos-de-fosseis-mostra-levantamento.shtml"
+
+  - title: "Fósseis dos outros, dados meus: colonialismo científico na pesquisa"
+    date: "December 31, 2021"
+    outlet: "OPOVO"
+    url: "https://mais.opovo.com.br/reportagens-especiais/mundo-dos-fosseis/2021/12/30/fosseis-dos-outros-dados-meus-colonialismo-cientifico-na-pesquisa.html"
+
+  - title: "It's like a second extinction"
+    date: "September 29, 2021"
+    outlet: "Science Magazine"
+    url: "https://www.science.org/content/article/it-s-second-extinction-retraction-deepens-legal-and-ethical-battle-over-rare-dinosaur"
+
+  - title: "Schwarzmarkt, Fälschungen und Vorwürfe: Fossilienforschung in Schwierigkeiten"
+    date: "August 25, 2021"
+    outlet: "Tagesspiegel"
+    url: "https://www.tagesspiegel.de/wissen/schwarzmarkt-faelschungen-und-vorwuerfe-fossilienforschung-in-schwierigkeiten/27549240.html"
+
+  - title: "This ancient shark fossil is exquisite. But some researchers wonder if they'll be able to study it"
+    date: "April 15, 2021"
+    outlet: "Science Magazine"
+    url: "https://www.science.org/content/article/ancient-shark-fossil-exquisite-some-researchers-wonder-if-they-ll-be-able-study-it"

@@ -8,6 +8,8 @@ main:
     url: /publications
   - title: "Previous talks"
     url: /talks
+  - title: "In the news"
+    url: /media
   - title: "Team"
     url: /team
   # - title: "Sitemap"
