@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/bg.jpg
   actions:
     - label: "Our Projects"
-      url: /#current-projects
+      url: /#projects
 excerpt: "/ˌpeɪlɪɒ'sʌɪənˈtɔmɛtrɪk/
 <br>*noun*. The study of the quantitative features and characteristics of palaeontology and palaeontological research"
 intro:
@@ -38,6 +38,6 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-# Current Projects
+# Projects
 
 {% include feature_row %}
