@@ -11,6 +11,9 @@ peer:
     researchgate: "https://www.researchgate.net/publication/357441656_Colonial_history_and_global_economics_distort_our_understanding_of_deep-time_biodiversity?_tatpl%5Bac%5D%5B0%5D%5Bactor%5D=AC%3A10509099&_tatpl%5Bac%5D%5B0%5D%5Bid%5D=1454106405388292&_tatpl%5Bac%5D%5B0%5D%5Bobject%5D=PB%3A357441656&_tatpl%5Bac%5D%5B0%5D%5Bts%5D=1641127183&_tatpl%5Bac%5D%5B0%5D%5Bverb%5D=recommend&_tatpl%5Bs%5D=c9f83840fe4a69ed97046327cc591185c0e1e2e0"
     github: paleoscientometrics/paleo-imperialism
     osf: 6wc7a
+    ga:
+      file: "ga_colonialism.png"
+      caption: "Graphical abstract by Emma Dunne"
     links:
       - description: Multi-lingual Plain Language Summaries
         url: https://osf.io/bptqf/download
