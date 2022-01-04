@@ -5,6 +5,11 @@ main:
     url: "https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html"
 
 sub:
+  - title: "Colonialism still influences the earth sciences today — and that’s a big problem for research"
+    date: "January 04, 2022"
+    outlet: "The Verge"
+    url: "https://www.theverge.com/2022/1/4/22865758/decolonizing-earth-sciences-paleontology-fossil-record"
+
   - title: "Países mais ricos monopolizam estudos de fósseis, mostra levantamento"
     date: "January 02, 2022"
     outlet: "Folha de S. Paulo"
@@ -14,6 +19,11 @@ sub:
     date: "December 31, 2021"
     outlet: "OPOVO"
     url: "https://mais.opovo.com.br/reportagens-especiais/mundo-dos-fosseis/2021/12/30/fosseis-dos-outros-dados-meus-colonialismo-cientifico-na-pesquisa.html"
+
+  - title: "Trafic de fossiles : la fin des archéologues sans scrupules ?"
+    date: "December 24, 2021"
+    outlet: "Science & Vie"
+    url: "https://www.science-et-vie.com/science-et-culture/trafic-de-fossiles-la-fin-des-archeologues-sans-scrupules-65769"
 
   - title: "It's like a second extinction"
     date: "September 29, 2021"
