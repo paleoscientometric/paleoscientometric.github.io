@@ -9,7 +9,7 @@ toc_sticky: true
 project: colonialism
 gallery:
   - url: /assets/ga/ga_colonialism.png
-    image_path: /assets/ga/ga_colonialism.png
+    image_path: /assets/ga/th-ga_colonialism_en.png
     alt: ""
     title: "Graphical abstract by Emma Dunne."
   - url: /assets/ga/ga_colonialism_de.png
@@ -17,11 +17,11 @@ gallery:
     alt: ""
     title: "Art von Emma Dunne. Übersezt von Nussaïbah Raja & Paulina Nätscher"
   - url: /assets/ga/ga_colonialism_pt.png
-    image_path: /assets/ga/ga_colonialism_pt.png
+    image_path: /assets/ga/th-ga_colonialism_pt.png
     alt: ""
     title: "Traduzido por: Aline Ghilardi. Arte de: Emma Dunne"
   - url: /assets/ga/ga_colonialism_es.png
-    image_path: /assets/ga/ga_colonialism_es.png
+    image_path: /assets/ga/th-ga_colonialism_es.png
     alt: ""
     title: "Traducido por: J. Benito. Arte de: Emma Dunne"
 ---
