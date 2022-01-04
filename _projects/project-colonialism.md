@@ -2,8 +2,6 @@
 title: "Scientific colonialism in Pal(a)eontology"
 excerpt: "The colonial legacy in fossil collections is evident. During colonial times, museums were used as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing 'parachute science', whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.  "
 layout: project
-header:
-  image: /assets/images/bg.jpg
 toc: true
 toc_sticky: true
 project: colonialism
@@ -28,6 +26,7 @@ gallery:
 <a name="ga"></a>
 {% include figure image_path="/assets/ga/ga_colonialism.png" alt="Graphical abstract summarising paper" caption="Graphical abstract by Emma Dunne." %}
 
+# Graphical abstracts
 {% include gallery caption="Graphical abstracts in other languages." %}
 
 The colonial legacy in fossil collections is evident. During colonial times, museums were used as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing ‘parachute science’, whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.
