@@ -12,8 +12,15 @@ peer:
     github: paleoscientometrics/paleo-imperialism
     osf: 6wc7a
     ga:
-      file: "ga_colonialism.png"
-      caption: "Graphical abstract by Emma Dunne"
+      - title: "Graphical Abstract"
+        file: "ga_colonialism.png"
+        caption: "Graphical abstract by Emma Dunne"
+      - file: "ga_colonialism_de.png"
+        caption: "Art von Emma Dunne. Übersezt von Nussaïbah Raja & Paulina Nätscher"
+      - file: "ga_colonialism_pt.png"
+        caption: "Traduzido por: Aline Ghilardi. Arte de: Emma Dunne"
+      - file: "ga_colonialism_es.png"
+        caption: "Traducido por: J. Benito. Arte de: Emma Dunne"
     links:
       - description: Multi-lingual Plain Language Summaries
         url: https://osf.io/bptqf/download

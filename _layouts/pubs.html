@@ -70,9 +70,14 @@ layout: default
         <a href="https://osf.io/{{pub.osf}}/" target="_blank"> <i class="ai ai-osf"></i></a>
         {% endif%}
         {% if pub.ga %}
-        <br>&nbsp;&nbsp;&nbsp;&#8618; <a href="/assets/ga/{{pub.ga.file}}"
-        title="{{pub.ga.caption}}" class="image-popup"> Graphical Abstract
+        {% for ga in pub.ga %}
+        {%if ga.title %}<br>&nbsp;&nbsp;&nbsp;&#8618; <a href="/assets/ga/{{ga.file}}"
+        title="{{ga.caption}}" class="image-popup"> {{ga.title}}
         </a>
+        {%else%}
+        <a href="/assets/ga/{{ga.file}}" title="{{ga.caption}}" class="image-popup"></a>
+        {%endif%}
+        {%endfor%}
         {%endif%}
         {% for links in pub.links %}
         <br>&nbsp;&nbsp;&nbsp;&#8618; <a href="{{links.url}}" target="_blank">{{links.description}}</a>
