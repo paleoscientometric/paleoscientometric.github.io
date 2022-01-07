@@ -10,6 +10,10 @@ gallery:
     image_path: /assets/ga/th-ga_colonialism_en.png
     alt: ""
     title: "Graphical abstract by Emma Dunne."
+  - url: /assets/ga/ga_colonialism_fr.png
+    image_path: /assets/ga/th-ga_colonialism_fr.png
+    alt: ""
+    title: "Graphical abstract by Emma Dunne."
   - url: /assets/ga/ga_colonialism_de.png
     image_path: /assets/ga/th-ga_colonialism_de.png
     alt: ""
@@ -22,6 +26,10 @@ gallery:
     image_path: /assets/ga/th-ga_colonialism_es.png
     alt: ""
     title: "Traducido por: J. Benito. Arte de: Emma Dunne"
+  - url: /assets/ga/ga_colonialism_ar.png
+    image_path: /assets/ga/th-ga_colonialism_ar.png
+    alt: ""
+    title: "Translated by: Farid Saleh"
 ---
 <a name="ga"></a>
 {% include figure image_path="/assets/ga/ga_colonialism.png" alt="Graphical abstract summarising paper" caption="Graphical abstract by Emma Dunne." %}

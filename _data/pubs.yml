@@ -15,12 +15,16 @@ peer:
       - title: "Graphical Abstract"
         file: "ga_colonialism.png"
         caption: "Graphical abstract by Emma Dunne"
+      - file: "ga_colonialism_fr.png"
+        caption: "Traduction par: Nussaïbah Raja et Farid Saleh"
       - file: "ga_colonialism_de.png"
         caption: "Art von Emma Dunne. Übersezt von Nussaïbah Raja & Paulina Nätscher"
       - file: "ga_colonialism_pt.png"
         caption: "Traduzido por: Aline Ghilardi. Arte de: Emma Dunne"
       - file: "ga_colonialism_es.png"
         caption: "Traducido por: J. Benito. Arte de: Emma Dunne"
+      - file: "ga_colonialism_ar.png"
+        caption: "Translated by: Farid Saleh"
     links:
       - description: Multi-lingual Plain Language Summaries
         url: https://osf.io/bptqf/download
