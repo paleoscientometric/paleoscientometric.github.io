@@ -1,10 +1,23 @@
 main:
+  - title    : "The tricky relationship between palaeontology and poor countries"
+    excerpt      : "What you see depends on where you stand. The unarguable fact that most palaeontologists live in the rich world means two things. One is that the fossils of these places are far better studied than those of poorer countries, which is a scientific pity. The other is that what knowledge has been garnered about poor-country palaeontology is frequently the result of visits by rich-country palaeontologists."
+    outlet: The Economist
+    date: "January 08, 2022"
+    url: "https://www.economist.com/science-and-technology/the-tricky-relationship-between-palaeontology-and-poor-countries/21807013"
+    logo: "/assets/images/economist_logo.png"
   - title    : "Decolonising the Hunt for Dinosaurs"
     excerpt      : "Younger paleontologists are working to overcome some historical legacies of their discipline and change how people learn about natural history."
     outlet: New York Times
+    date: "March 22, 2021"
     url: "https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html"
+    logo: "/assets/images/nyt_logo.png"
 
 sub:
+  - title: "IISER Pune scientist part of a research paper in ‘Nature Ecology and Evolution’"
+    date: "January 06, 2022"
+    outlet: "The Hindustan Times"
+    url: "https://www.hindustantimes.com/cities/pune-news/iiser-pune-scientist-part-of-a-research-paper-in-nature-ecology-and-evolution-101641491074744.html"
+
   - title: "Colonialism still influences the earth sciences today — and that’s a big problem for research"
     date: "January 04, 2022"
     outlet: "The Verge"

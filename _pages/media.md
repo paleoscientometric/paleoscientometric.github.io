@@ -2,16 +2,20 @@
 layout: single
 permalink: /media/
 ---
-<section class="blog-cat mt-5 pb-5">
-	<div class="container mb-5">
+
+<section class="blog-cat">
+	<div class="container">
 		<div class="text-center container-less resources-feed-heading">
-			<h1 class="in-news h3 text-red font-italic">In The News</h1>
+			<h1 class="in-news h3 text-red font-italic" style="margin:0 0 1.5em;">In The News</h1>
       {% for news in site.data.news.main %}
-			<h2 class="news-feed-heading h1 lead">{{ news.title }}</h2>
-			<p class="news-heading-intro h4 font-italic pt-3 font-weight-normal">{{ news.excerpt}}</p>
-      <p class="news-heading-intro text-pink"><em>{{news.outlet}}</em></p>
-			<a class="btn btn-primary text-white mt-3" href="{{news.url}}" target="_blank">Read More</a>
-        {% endfor %}
+			<img src="{{news.logo}}" alt="{{news.outlet}}" style="height:50px">
+
+			<h2 class="news-feed-heading" style="margin:0.5em;">{{ news.title }}</h2>
+			<p class="news-heading-intro h4 font-italic pt-3 font-weight-normal" style="margin:0.25em;">{{ news.excerpt}}</p>
+      <p class="news-heading-intro text-pink" style="margin:0 0 0.5em;">{{news.date}}</p>
+			<a class="btn btn-primary text-white mt-3" href="{{news.url}}" target="_blank" style="margin:0;">Read More</a>
+			<br>
+        {% endfor%}
 		</div>
 	</div>
   {% for news in site.data.news.sub %}
@@ -24,7 +28,7 @@ permalink: /media/
 					</h3>
 				</div>
 				<div class="col-md-2">
-					<p class="m-0 text-pink text-uppercase"><em>{{news.outlet}}</em>, {{news.date}}</p>
+					<p class="m-0 text-pink text-uppercase" style="font-size:0.8em;"><em>{{news.outlet}}</em>, {{news.date}}</p>
 				</div>
 			</div>
 		</div>
