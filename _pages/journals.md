@@ -8,8 +8,13 @@ header:
   #caption: "Photo: [**Pexels**](https://www.pexels.com/photo/abstract-art-blur-bright-373543/)"
   overlay_image: assets/images/bg.jpg
 classes: wide
-datatable: true
 ---
+<div class="small">
+
+Press <Shift> and click on the arrows next to the columns headers of your choice to order by multiple columns
+<br>
+<br>
+
 <table id="example" class="display" style="width:100%">
 <thead>
 {% for row in site.data.journals %}
@@ -29,12 +34,25 @@ datatable: true
     {% tablerow pair in row %}
       {{ pair[1] }}
     {% endtablerow %}
-    
+
   {% endfor %}
   </tbody>
 </table>
+</div>
 
 <script>
+
+// multicolumn sorting
 $('#example').DataTable( {
+  columnDefs: [ {
+            targets: [ 0 ],
+            orderData: [ 0, 1 ]
+        }, {
+            targets: [ 1 ],
+            orderData: [ 1, 0 ]
+        }, {
+            targets: [ 4 ],
+            orderData: [ 4, 0 ]
+        } ]
 } );
 </script>
