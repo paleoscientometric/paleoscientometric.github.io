@@ -13,6 +13,22 @@ main:
     logo: "/assets/images/nyt_logo.png"
 
 sub:
+  - title: "How rich countries skew the fossil record"
+    date: "January 13, 2022"
+    outlet: "Nature"
+    url: "https://www.nature.com/articles/d41586-022-00034-5"
+
+  - title: "Pesquisa de fósseis são afetadas significativamente por viés colonial, revela estudo"
+    date: "January 09, 2022"
+    outlet: "Galileu"
+    url: "https://revistagalileu.globo.com/Ciencia/noticia/2022/01/pesquisa-de-fosseis-sao-afetadas-significativamente-por-vies-colonial-revela-estudo.html"
+
+  - title: "Palaeontology Has a Colonialism Problem"
+    date: "January 07, 2022"
+    outlet: "The Wire"
+    url: "https://science.thewire.in/the-sciences/parachute-science-palaeontology-european-colonialism-indian-scientists/"
+
+
   - title: "IISER Pune scientist part of a research paper in ‘Nature Ecology and Evolution’"
     date: "January 06, 2022"
     outlet: "The Hindustan Times"

@@ -31,9 +31,13 @@ gallery:
     alt: ""
     title: "Translated by: Farid Saleh"
 ---
-<a name="ga"></a>
-{% include figure image_path="/assets/ga/ga_colonialism.png" alt="Graphical abstract summarising paper" caption="Graphical abstract by Emma Dunne." %}
+<div class="small">
+<b>Note:</b> The following video is in Portuguese, with English subtitles.
+{% youtube Z_qz5VdIOqI %}
+</div>
 
+
+<a name="ga"></a>
 # Graphical abstracts
 {% include gallery caption="Graphical abstracts in other languages." %}
 
