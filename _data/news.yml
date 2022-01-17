@@ -13,6 +13,14 @@ main:
     logo: "/assets/images/nyt_logo.png"
 
 sub:
+  - title: "Why India's fossil wealth has remained hidden"
+    date: "January 17, 2022"
+    outlet: "BBC Future"
+    url: "https://www.bbc.com/future/article/20220113-why-indias-fossil-wealth-has-remained-hidden"
+  - title: "Paläontologie: Herrscht in der Forschung immer noch Kolonialzeit?"
+    date: "January 15, 2022"
+    outlet: "National Geographic"
+    url: "https://www.nationalgeographic.de/geschichte-und-kultur/2022/01/palaeontologie-herrscht-in-der-forschung-immer-noch-kolonialzeit"
   - title: "How rich countries skew the fossil record"
     date: "January 13, 2022"
     outlet: "Nature"
