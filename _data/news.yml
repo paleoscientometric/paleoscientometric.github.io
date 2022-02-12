@@ -76,3 +76,9 @@ sub:
     date: "April 15, 2021"
     outlet: "Science Magazine"
     url: "https://www.science.org/content/article/ancient-shark-fossil-exquisite-some-researchers-wonder-if-they-ll-be-able-study-it"
+
+radio:
+  - title: "Researchers call for a new awareness of scientific colonialism"
+    date: "January 22, 2022"
+    outlet: "Quirks and Quarks"
+    url: "https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/15890600-researchers-call-awareness-scientific-colonialism?share=true"

@@ -18,6 +18,7 @@ permalink: /media/
         {% endfor%}
 		</div>
 	</div>
+
   {% for news in site.data.news.sub %}
 	<div class="fullbar-item w-100 cursor-pointer" onclick="location.href='#'">
 		<div class="container">
@@ -34,4 +35,25 @@ permalink: /media/
 		</div>
 	</div>
   {%endfor%}
+
+	<div class="text-center container-less resources-feed-heading">
+		<h1 class="in-news h3 text-red font-italic" style="margin:0 0 1.5em;">Radio & Podcast</h1>
+		</div>
+{% for news in site.data.news.radio %}
+<div class="fullbar-item w-100 cursor-pointer" onclick="location.href='#'">
+	<div class="container">
+		<div class="row py-3 py-md-5 align-items-center border-top">
+			<div class="col-md-10">
+				<h3 class="feed-item-heading m-0 font-weight-800">
+					<a class="text-black" href="{{news.url}}" target="_blank">{{news.title}}</a>
+				</h3>
+			</div>
+			<div class="col-md-2">
+				<p class="m-0 text-pink text-uppercase" style="font-size:0.8em;"><em>{{news.outlet}}</em>, {{news.date}}</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+{%endfor%}
 </section>
