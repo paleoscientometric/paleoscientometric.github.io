@@ -33,6 +33,9 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-4-th.jpg
     title: "<center>Scientific names and who they honour</center>"
     excerpt: "The Linnean system enjoys universal acceptance within the scientific community. A gift that came along with the Linnean system was eponymous naming, i.e. the naming of a taxon after a person, place or even any other existing entity. The choice to name a species after someone is highly embedded in the power imbalance that we see in the discipline of paleontology, and as a result, who get to be recognised and who doesn't."
+  - image_path: /assets/images/unsplash-gallery-image-5-th.jpg
+    title: "<center>Colonial plunder of dinosaurs</center>"
+    excerpt: "Palaeontology was developed around an extractive process, facilitated by 19th century colonialism. This extractive process had led to many fossil specimens from countries across the world being stored in museums in higher income countries, such as the USA, UK, and Germany. Residing so far from their origins has many implications for equity and ethics in the field of palaeontology, and has even resulted in violations of international law."
 
 ---
 
