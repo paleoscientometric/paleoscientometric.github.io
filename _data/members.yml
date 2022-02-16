@@ -1,3 +1,9 @@
+Sibusiso:
+  name: "Sibusiso Biyela"
+
+Larry:
+  name: "Lawrence Bradley"
+
 Francesca:
   name: "Francesca Cusumano"
   avatar      : "/assets/images/authors/francesca.jpg"
@@ -5,12 +11,18 @@ Francesca:
 Devapriya:
   name: "Devapriya Chattopadhyay"
 
+Katie:
+  name: "Katie Collins"
+
 Danijela:
   name: "Danijela Dimitrijević"
   avatar      : "/assets/images/authors/dani.jpg"
 
-Diana:
-  name: "Diana Elizabeth Fernández"
+Will:
+  name: "William Foster"
+
+Bryan:
+  name: "Bryan Gee"
 
 Pedro:
   name: "Pedro Loreno Godoy"
@@ -23,6 +35,20 @@ Aline:
 Alejandra:
   name: "Alejandra Gomez"
   avatar      : "/assets/images/authors/alejandra.jpg"
+
+Sarah:
+  name: "Sarah Greene"
+  avatar: "/assets/images/authors/sarah.jpg"
+
+Thomas:
+  name: "Thomas Halliday"
+
+Emma:
+  name: "Emma Hanson"
+  avatar: "/assets/images/authors/emmah.jpg"
+
+Tom:
+  name: "Thomas Wong Hearing"
 
 Struan:
   name: "Struan Henderson"
@@ -39,6 +65,9 @@ Ming:
 Gregor:
   name: "Gregor Mathes"
 
+Bolor:
+  name: "Bolortsetseg Minjin"
+
 Laura:
   name: "Laura Mulvey"
   avatar      : "/assets/images/authors/laura.jpg"
@@ -54,3 +83,12 @@ Paulina:
 Fiona Pye:
   name    : "Fiona Pye"
   avatar      : "/assets/images/authors/fiona.jpg"
+
+Emmanuel:
+  name: "Emmanuel Tschopp"
+
+Paul:
+  name: "Paul Stewens"
+  
+Evan:
+  name: "Evan Vlachos"
