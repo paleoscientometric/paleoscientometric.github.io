@@ -40,6 +40,27 @@ peer:
     pdf: https://rdcu.be/cEdyW
     researchgate: "https://www.researchgate.net/publication/356221849_The_moral_and_legal_imperative_to_return_illegally_exported_fossils"
 
+  - collection: colonialism
+    authors: Cisneros, J. C. et al.
+    year: 2022
+    title: "Digging deeper into colonial palaeontological practices in modern day Mexico and Brazil"
+    journal: "Royal Society Open Science"
+    page: ""
+    pdf: https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.210898
+    links:
+      - description: Spanish version/Versión en español
+        url: /assets/pdf/Cisneros_et_al_2022_ES.pdf
+      - description: Portuguese version/Versão em português
+        url: /assets/pdf/Cisneros_et_al_2022_PT.pdf
+    ga:
+    - title: "Graphical Abstract"
+      file: "br_mex_en.jpg"
+      caption: "Graphical abstract by Emma Dunne"
+    - file: "br_mex_pt.jpg"
+      caption: "Traduzido por: Felipe Pinheiro. Arte de: Emma Dunne"
+    - file: "br_mex_es.jpg"
+      caption: "Traducido por: Omar Relgado Fernández. Arte de: Emma Dunne"
+
 preprint:
   -   authors: "Raja, N. B., & Dunne, E."
       year: 2021
