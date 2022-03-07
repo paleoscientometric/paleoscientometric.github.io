@@ -38,13 +38,13 @@ gallery:
     alt: ""
     title: "Translated by: Farid Saleh"
 gallery2:
-  - url: /assets/ga/br_mex_en.png
+  - url: /assets/ga/br_mex_en.jpg
     image_path: /assets/ga/th-br_mex_en.png
     alt: ""
-  - url: /assets/ga/br_mex_es.png
+  - url: /assets/ga/br_mex_es.jpg
     image_path: /assets/ga/th-br_mex_es.png
     alt: ""
-  - url: /assets/ga/br_mex_pt.png
+  - url: /assets/ga/br_mex_pt.jpg
     image_path: /assets/ga/th-br_mex_pt.png
     alt: ""
 ---
@@ -81,9 +81,3 @@ gallery2:
 
 </ul>
 </div>
-
-
-<script>
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
-</script>
