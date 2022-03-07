@@ -12,6 +12,8 @@ main:
     url: /media
   - title: "Team"
     url: /team
+  - title: "Resources"
+    url: /resources
   # - title: "Sitemap"
   #   url: /sitemap/
 
