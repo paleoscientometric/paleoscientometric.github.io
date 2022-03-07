@@ -5,6 +5,13 @@ layout: project
 toc: true
 toc_sticky: true
 project: colonialism
+tabs:
+  - title: Colonial history & economics
+    id: top1
+    active: true
+
+  - title: Brazil & Mexico
+    id: top2
 gallery:
   - url: /assets/ga/ga_colonialism.png
     image_path: /assets/ga/th-ga_colonialism_en.png
@@ -30,7 +37,18 @@ gallery:
     image_path: /assets/ga/th-ga_colonialism_ar.png
     alt: ""
     title: "Translated by: Farid Saleh"
+gallery2:
+  - url: /assets/ga/br_mex_en.png
+    image_path: /assets/ga/th-br_mex_en.png
+    alt: ""
+  - url: /assets/ga/br_mex_es.png
+    image_path: /assets/ga/th-br_mex_es.png
+    alt: ""
+  - url: /assets/ga/br_mex_pt.png
+    image_path: /assets/ga/th-br_mex_pt.png
+    alt: ""
 ---
+
 <div class="small">
 <b>Note:</b> The following video is in Portuguese, with English subtitles.
 {% youtube Z_qz5VdIOqI %}
@@ -39,9 +57,18 @@ gallery:
 
 <a name="ga"></a>
 # Graphical abstracts
-{% include gallery caption="Graphical abstracts in other languages." %}
 
-The colonial legacy in fossil collections is evident. During colonial times, museums were used as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing ‘parachute science’, whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.
+{% include tabcontrol.html tabs=page.tabs %}
+<div id="top1" class="tabcontent">
+    {% include gallery caption="Graphical abstracts in other languages." %}
+
+    The colonial legacy in fossil collections is evident. During colonial times, museums were used as repositories for many things, including fossils from conquered lands. The current state of the field has built on this legacy, with many paleontologists practicing ‘parachute science’, whereby Western researchers drop into developing country to collect fossil data without engaging local researchers or communities. This has led to a growing power and knowledge imbalance with regards to who gets to do research and where.
+</div>
+
+<div id="top2" class="tabcontent">
+    {% include gallery id="gallery2" caption="Graphical abstracts in other languages." %}
+
+</div>
 
 # Related talks
 <div class="small">
@@ -54,3 +81,9 @@ The colonial legacy in fossil collections is evident. During colonial times, mus
 
 </ul>
 </div>
+
+
+<script>
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
